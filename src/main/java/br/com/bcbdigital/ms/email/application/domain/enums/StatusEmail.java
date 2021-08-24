@@ -1,4 +1,4 @@
-package br.com.bcbdigital.ms.email.model.enums;
+package br.com.bcbdigital.ms.email.application.domain.enums;
 
 /**
  *  Classe da entidade enum {@link StatusEmail}
@@ -9,6 +9,7 @@ package br.com.bcbdigital.ms.email.model.enums;
  * */
 public enum StatusEmail {
 
+    PROCESSING,
     SENT,
-    ERROR
+    ERROR;
 }

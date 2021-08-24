@@ -1,4 +1,4 @@
-package br.com.bcbdigital.ms.email.config;
+package br.com.bcbdigital.ms.email.adapters.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -4,8 +4,9 @@
 
 ## Microsserviço de envio de emails
 
-Nesse projeto, fiz um Microsserviço que faz o envio de emails utilizando o SpringMail.
-Utilizando mensageria através do RabbitMQ e o SpringAMQP.
+Nesse projeto, fiz um Microsserviço que faz o envio de emails utilizando o SpringMail. 
+Utilizando mensageria através do RabbitMQ e o SpringAMQP. O projeto tem a arquitetura Hexagonal como base.
+
 Também apliquei padrões de testes usando o JUnit para fornecer alguns testes unitarios e de integração.
 Toda a documentação da API está descrita também no Swagger
 ## Authors

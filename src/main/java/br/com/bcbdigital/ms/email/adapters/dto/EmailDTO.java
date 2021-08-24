@@ -1,4 +1,4 @@
-package br.com.bcbdigital.ms.email.services.dto;
+package br.com.bcbdigital.ms.email.adapters.dto;
 
 import lombok.Data;
 import javax.validation.constraints.Email;
